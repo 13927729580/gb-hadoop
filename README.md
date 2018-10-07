@@ -1,2 +1,2 @@
-# gb-hadoop
-Hadoop Docker images
+# Hadoop Docker images
+
